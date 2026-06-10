@@ -9,4 +9,4 @@ Predicting passenger survival using Random Forest classification.
 - Missing value imputation
 - Feature engineering (Title, FamilySize, AgeBand)
 - Random Forest model — **0.775 public score on Kaggle**
-- Kaggle notebook: [link here]
+- Kaggle notebook: [https://www.kaggle.com/code/nehalchau/notebooknehalchau]
