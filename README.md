@@ -8,5 +8,5 @@ Predicting passenger survival using Random Forest classification.
 - EDA on passenger demographic and travel data
 - Missing value imputation
 - Feature engineering (Title, FamilySize, AgeBand)
-- Random Forest model — **0.775 public score on Kaggle**
+- Random Forest model : **0.775 public score on Kaggle**
 - Kaggle notebook: [https://www.kaggle.com/code/nehalchau/notebooknehalchau]
